@@ -1,0 +1,12 @@
+E:\NT101_ATMMT\DOAN_NEW\NT101_FinalProject-main\bin\Debug\ATM.exe.config
+E:\NT101_ATMMT\DOAN_NEW\NT101_FinalProject-main\bin\Debug\ATM.exe
+E:\NT101_ATMMT\DOAN_NEW\NT101_FinalProject-main\bin\Debug\ATM.pdb
+E:\NT101_ATMMT\DOAN_NEW\NT101_FinalProject-main\obj\Debug\ATM.csproj.AssemblyReference.cache
+E:\NT101_ATMMT\DOAN_NEW\NT101_FinalProject-main\obj\Debug\ATM.Form1.resources
+E:\NT101_ATMMT\DOAN_NEW\NT101_FinalProject-main\obj\Debug\ATM.PLAYFAIR.resources
+E:\NT101_ATMMT\DOAN_NEW\NT101_FinalProject-main\obj\Debug\ATM.Properties.Resources.resources
+E:\NT101_ATMMT\DOAN_NEW\NT101_FinalProject-main\obj\Debug\ATM.RSA.resources
+E:\NT101_ATMMT\DOAN_NEW\NT101_FinalProject-main\obj\Debug\ATM.csproj.GenerateResource.cache
+E:\NT101_ATMMT\DOAN_NEW\NT101_FinalProject-main\obj\Debug\ATM.csproj.CoreCompileInputs.cache
+E:\NT101_ATMMT\DOAN_NEW\NT101_FinalProject-main\obj\Debug\ATM.exe
+E:\NT101_ATMMT\DOAN_NEW\NT101_FinalProject-main\obj\Debug\ATM.pdb
